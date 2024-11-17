@@ -1,2 +1,2 @@
-# web-micro
-small web project
+# htmlcss-video
+just html and css, with some video tag
