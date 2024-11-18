@@ -39,7 +39,7 @@ h1 {
 video {
     width: auto;
     height: 250px;
-    margin: 5px;
+    margin: 10px;
 
 }
 
@@ -50,4 +50,5 @@ figure {
 p {
     margin-top: 10px;
     text-align: center;
+    padding: 10px;
 }   
